@@ -1,0 +1,13 @@
+name: タスク
+description: シンプルなフォーマット
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 完了条件
+
+  - type: textarea
+    attributes:
+        label: "Note"
+
